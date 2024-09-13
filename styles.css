@@ -22,9 +22,19 @@ background-color:whitesmoke;
     text-transform: uppercase;
     padding: 32px;
     background-color: #0a0a23;
-    color:#fff;
-    border-bottom:4px solid #fdb347;
+    color:#67baff;
+    border-bottom:20px solid rgb(224, 76, 224);
+    font-size: 50px;
+font-family: 'myfont';
+letter-spacing: 5px;;
+       
 }
+
+
+@font-face{
+    font-family: myfont;
+    src: url('COMPUTERRobot.ttf');
+   }
 
 .gallery{
     display:flex;
